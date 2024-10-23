@@ -1,0 +1,7 @@
+INSERT INTO [dbo].[Jurusan]
+VALUES
+(1, 'INFORMATIKA'),
+(2, 'STATISTIKA'),
+(3, 'HUKUM'),
+(4, 'PSIKOLOGI'),
+(5, 'TEKNIK SIPIL');

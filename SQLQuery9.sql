@@ -1,0 +1,6 @@
+CREATE DATABASE Pertemuan4;
+
+USE Pertemuan4;
+
+CREATE TABLE MAHASISWA (
+
